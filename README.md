@@ -1,6 +1,8 @@
 # C2 List 
 EDIT : "[REPO] FORK" means that the source is no longer available > go FORK 
 
+https://github.com/chriselgee/ObviousDNSC2
+
 https://github.com/DarkCoderSc/SubSeven
 
 https://github.com/Yuragy/HVNC-windows-remote-toolkit
